@@ -1,0 +1,190 @@
+{
+  "timestamp": "2025-11-22T08:24:46.981352",
+  "files_checked": {
+    "original": "☺野百灵·贵州酸汤SOP2025.10.14.xlsx",
+    "normalized": "野百灵标准SOP.xlsx"
+  },
+  "summary": {
+    "total_products": 44,
+    "total_ingredients": 266,
+    "total_sheets": 7
+  },
+  "scores": {
+    "product_coverage": 46.51162790697674,
+    "ingredient_completeness": 100.0,
+    "quantity_completeness": 86.09022556390977,
+    "unit_standardization": 100.0,
+    "cross_validation": 90.9090909090909
+  },
+  "total_score": 84.00670015419098,
+  "grade": "良好 ⭐⭐",
+  "issues": {
+    "critical": [
+      {
+        "type": "数据来源不明",
+        "product": "火烧云铜锅油焖鸡",
+        "description": "规范文件有18条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "香茅",
+          "小米辣",
+          "大蒜",
+          "盐",
+          "鸡精"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "干巴菌炒饭",
+        "description": "规范文件有18条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "鸡油",
+          "干巴菌",
+          "大蒜",
+          "红洋葱",
+          "干巴菌酱"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "糟辣椒炒饭",
+        "description": "规范文件有8条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "鸡蛋",
+          "糟辣椒酱",
+          "脆哨",
+          "小葱",
+          "鸡精"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "野佐料擂椒皮蛋",
+        "description": "规范文件有18条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "蒸熟茄子",
+          "盐",
+          "鸡精",
+          "味精",
+          "白糖"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "苗侗空气丸子",
+        "description": "规范文件有15条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "折耳根",
+          "葱花",
+          "香菜",
+          "泡罗卜",
+          "大香菜"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "野菜卷",
+        "description": "规范文件有1条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "野菜卷"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "山玫瑰炸乳扇",
+        "description": "规范文件有3条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "玫瑰乳扇",
+          "玫瑰酱",
+          "山玫瑰花瓣"
+        ]
+      },
+      {
+        "type": "数据来源不明",
+        "product": "怪噜洋芋",
+        "description": "规范文件有18条原料，原始文件为0。数据可能来自其他来源。",
+        "ingredients": [
+          "蒜蓉辣酱",
+          "西红柿",
+          "大蒜",
+          "姜",
+          "黄灯笼辣椒酱"
+        ]
+      }
+    ],
+    "warning": [
+      {
+        "type": "原料减少",
+        "product": "老凯里非遗酸汤",
+        "description": "原始16条 → 规范14条，减少了2条"
+      },
+      {
+        "type": "原料减少",
+        "product": "大地飞雪(M9纯血和牛)",
+        "description": "原始5条 → 规范3条，减少了2条"
+      },
+      {
+        "type": "原料减少",
+        "product": "黑松露和牛开口笑",
+        "description": "原始9条 → 规范7条，减少了2条"
+      },
+      {
+        "type": "原料减少",
+        "product": "手工水晶滑肉",
+        "description": "原始5条 → 规范2条，减少了3条"
+      },
+      {
+        "type": "原料减少",
+        "product": "乌鱼片",
+        "description": "原始4条 → 规范2条，减少了2条"
+      },
+      {
+        "type": "原料减少",
+        "product": "七彩土豆",
+        "description": "原始4条 → 规范2条，减少了2条"
+      },
+      {
+        "type": "原料减少",
+        "product": "柠檬山茶",
+        "description": "原始5条 → 规范3条，减少了2条"
+      },
+      {
+        "type": "原料增加",
+        "product": "傣村手撕罗非鱼",
+        "description": "原始1条 → 规范13条，增加了12条"
+      },
+      {
+        "type": "原料增加",
+        "product": "贵州非遗丝娃娃",
+        "description": "原始10条 → 规范15条，增加了5条"
+      },
+      {
+        "type": "原料增加",
+        "product": "雪顶冰淇淋玉米粑",
+        "description": "原始1条 → 规范9条，增加了8条"
+      },
+      {
+        "type": "原料增加",
+        "product": "紫苏桃子",
+        "description": "原始1条 → 规范7条，增加了6条"
+      },
+      {
+        "type": "用量缺失",
+        "product": "多个产品",
+        "description": "约13.9%的原料缺少用量数据(标记为'待补充')"
+      }
+    ],
+    "info": [
+      {
+        "type": "仅SOP存在",
+        "count": 4,
+        "products": [
+          "黑松露和牛开口笑",
+          "紫苏半边云(鲜牛胸口)",
+          "五指毛桃薏仁水",
+          "七彩土豆"
+        ],
+        "description": "有4个产品仅在SOP中存在，成本卡中没有"
+      }
+    ]
+  }
+}

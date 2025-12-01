@@ -1,12 +1,8 @@
-# Excel数据文件
-*.xlsx
-*.xls
+# 原始数据目录（包含所有Excel、图片等）
+source_data/
 
-# 图片文件
-*.jpg
-*.jpeg
-*.png
-*.gif
+# 验证JSON文件（已移至db/目录）
+db/sop_validation_*.json
 
 # 临时文件
 .DS_Store
@@ -14,17 +10,15 @@
 *.swp
 *~
 
-# 数据目录（包含原始Excel和图片）
-2025年1-11月22日平台数据/
-各门店截止10月销售数据统计/
-野百灵入库单/
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
 
-# 验证JSON文件（太大且不是核心）
-sop_validation_*.json
-
-# 大型Excel文件
-☺野百灵·贵州酸汤SOP2025.10.14.xlsx
-SOP_basic.xlsx
-野百灵标准SOP.xlsx
-野百灵产品标准成本卡.xlsx
-原材料价格及规格明细表.xlsx
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
